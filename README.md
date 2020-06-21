@@ -8,4 +8,6 @@ The goal of this project is the correct classification using Convolutional Neura
 ### IMAGE AUGMENTATIONS
 
 ## VISUALIZATION
+Here is the results which is the most reasonable among a number of trials with differenct tuning of data or model parameters.
+
 
