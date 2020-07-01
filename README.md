@@ -7,5 +7,6 @@ The goal of this project is the correct classification using Convolutional Neura
 ## VISUALIZATION
 Here is the final result which is the most reasonable among a number of trials with the different tuning of data or model parameters.
 
-images/example_image.jpeg
+![Alt text](./images/example_image.jpeg)
+
 
